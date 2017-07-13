@@ -1,5 +1,5 @@
 <?php
-error_reporting(-1);
+// error_reporting(-1);
 require('includes/functions.php');
 require('includes/elements.php');
 require('templates/header.php');
@@ -7,7 +7,7 @@ require('templates/header.php');
         <div id="sidebar-wrapper">
             <div class="sidebar-inner">
 
-                <h3>Gerez votre propre contrat</h3>
+                <h3>Gerez votre propre contrat!</h3>
 
                 <p class="sidebar-description">
                     Remplissez les champs ci-dessous et cliquez sur le bouton "Enregistrer au format PDF" pour sauvegarder votre contrat au format PDF (teste uniquement sous chrome).
