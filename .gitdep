@@ -1,0 +1,10 @@
+garlicjs:
+    url:        git@github.com:guillaumepotier/Garlic.js.git
+    branch:     master
+    path:       vendor
+    dirname:    Garlic.js
+jspdf:
+    url:        git@github.com:MrRio/jsPDF.git
+    branch:     master
+    path:       vendor
+    dirname:    jsPDF
